@@ -1,0 +1,128 @@
+html {
+    scroll-behavior: smooth;
+}
+section{
+    margin: 120px 0;
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+.infor-header h2 {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+section h2 {
+padding: 50px 0;
+}
+
+.education p {
+    margin: 0;
+    font-size: 17px;
+    font-weight: bold;
+}
+.infor-header h4 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.infor-body p {
+    line-height: 15.0px;
+}
+
+.infor-body i{
+    margin-right: 10px;
+}
+.nav a {
+    color: red;
+}
+.navbar a {
+    color: royalblue;
+}
+
+.infor-social a {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    background-color: #444;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 10px;
+    transition: all 0.4s ease 0s;
+}
+
+.infor-social .facebook:hover{
+    background-color: rgba(var(--d69,0,149,246),1);
+}
+
+.infor-social .Instagram:hover{
+    background-color: orangered;
+}
+
+.infor-social .Google-plus-g:hover{
+    background-color: yellow;
+}
+
+.infor-social .weixin:hover{
+    background-color: green;
+}
+
+.infor-social .youtube:hover{
+    background-color: #c4302b;
+}
+
+section h2 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.Experience p {
+    margin: 0;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+footer {
+    border-top: 1px solid;
+    margin-top: 4rem;
+    padding-top: 20px;
+}
+
+footer h4 {
+    font-weight: 700;
+}
+
+footer .nav-link {
+    color: black;
+}
+
+footer .facebook:hover {
+    color: rgba(var(--d69,0,149,246),1);
+}
+
+footer .Instagram:hover {
+    color: orangered;
+}
+
+footer .Google-plus-g:hover {
+    color: yellow;
+}
+
+footer .weixin:hover {
+    color: green;
+}
+
+footer .youtube:hover {
+    color: #c4302b;
+}
+
+footer i {
+    margin-right: 5px;
+}
+
+footer p {
+    font-size: 12px;
+    font-weight: 600;
+}
+
